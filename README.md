@@ -5,5 +5,5 @@
 
 1.) Donwload the repository <br/>
 2.) Run `npm install` <br/>
-3.) Run `npm run dev` <br/>
+3.) Run `npm run` <br/>
  Server starts up at port 3000
