@@ -1,6 +1,5 @@
 ## Sentimental Analysis Using AFINN-165 wordlist and Emoji Sentiment Ranking
 
-## LIVE -  https://krishna-chat-application.herokuapp.com/
 
 ### For Running Locally
 
